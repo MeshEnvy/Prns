@@ -1,0 +1,13 @@
+/target/
+/.build/
+**/target/
+**/build/
+!tools/build/
+!tools/build/**
+**/node_modules/
+**/dist/
+**/pkg/
+**/*.rs.bk
+godot-smoke/
+benchmarks/reference/.venv/
+.DS_Store
